@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @arn0kel
+- 👀 I’m interested in ... absolutely nothing
+- 🌱 I’m currently learning ... absolutely nothing
+- 💞️ I’m looking to collaborate on ... absolutely nothing
+- 📫 How to reach me ... no
