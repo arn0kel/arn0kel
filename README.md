@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arn0kel
-- 👀 I’m interested in ... absolutely nothing
-- 🌱 I’m currently learning ... absolutely nothing
-- 💞️ I’m looking to collaborate on ... absolutely nothing
+- 👀 I’m interested in ... Optical design
+- 🌱 I’m currently learning ... C++ 
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... no
